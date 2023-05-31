@@ -1,0 +1,18 @@
+_id: env_4a75219da17446204b2d4935e31bc88715e3750c
+type: Environment
+parentId: wrk_1de5aa311fbf451c83382bd46646e9b9
+modified: 1685487076142
+created: 1685484996780
+name: Base Environment
+data:
+  base_url: http://127.0.0.1:8000
+  refresh: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTY4NTU3MzQ2NSwiaWF0IjoxNjg1NDg3MDY1LCJqdGkiOiI5MjViZjhhOWQzN2E0Nzc0YWNhNjA4ZTYyNDg5Y2Q5YyIsInVzZXJfaWQiOjJ9.fgmdCgtm9XIRXGIrXWuaxBeuJRys8-FoFPj8V8qthrI
+  access: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjg1NDkwNjY1LCJpYXQiOjE2ODU0ODcwNjUsImp0aSI6ImI1NTBmYzQ3YTFhZDQzODU5ZTBhYzY5ZTk5Y2ZhYmZkIiwidXNlcl9pZCI6Mn0.3843xTcJzXBrB7ksnc4WsaWScc52WxRfKcgd7UR4jKc
+dataPropertyOrder:
+  "&":
+    - base_url
+    - refresh
+    - access
+color: null
+isPrivate: false
+metaSortKey: 1685484996780

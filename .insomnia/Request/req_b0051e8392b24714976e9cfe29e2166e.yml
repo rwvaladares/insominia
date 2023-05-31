@@ -1,0 +1,29 @@
+_id: req_b0051e8392b24714976e9cfe29e2166e
+type: Request
+parentId: fld_1e627f06399848bdb26c4232acffcb9b
+modified: 1685486572468
+created: 1685485840779
+url: "{{ _.base_url }}/login/api/token/"
+name: Create Token
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"username": "cyberjobs_teste",
+    	"password": "TeS15935728"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1685485840779
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

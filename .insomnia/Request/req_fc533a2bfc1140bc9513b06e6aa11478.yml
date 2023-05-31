@@ -1,0 +1,28 @@
+_id: req_fc533a2bfc1140bc9513b06e6aa11478
+type: Request
+parentId: fld_1e627f06399848bdb26c4232acffcb9b
+modified: 1685486885009
+created: 1685485832927
+url: "{{ _.base_url }}/login/api/token/verify/"
+name: Validate Token
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"token": "{{ _.access }}"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1685485832927
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
